@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&center=true&vCenter=true&width=640&lines=Shipping%20web%20products%20with%20care;Open%20to%20thoughtful%20collaboration;jjj)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-system-a53857359) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HansSystem) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://hanssystem1@gmail.com) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hanssystem1@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=system&color=a855f7&style=flat-square)
 
@@ -61,25 +60,24 @@
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=system&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=system&theme=github-dark&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanssystem1-blip&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=hanssystem1-blip&theme=github-dark&hide_border=true&area=true)
 
 ### Coding Time
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=system&theme=github_dark&hide_border=true)](https://wakatime.com/@system)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hanssystem1-blip&theme=github_dark&hide_border=true)](https://wakatime.com/@system)
 
 </div>
 
 > Requires a public WakaTime profile
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ---
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/system">github.com/system</a></sub>
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/system">github.com/hanssystem1-blip</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%" alt="Footer wave"/>
 
