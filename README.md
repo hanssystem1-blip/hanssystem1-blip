@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hanssystem1-blip&theme=github_dark&hide_border=true)](https://wakatime.com/@system)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hanssystem1-blip&theme=github_dark&hide_border=true)](https://wakatime.com/@hans)
 
 </div>
 
